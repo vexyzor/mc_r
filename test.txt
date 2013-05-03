@@ -1,3 +1,5 @@
-1st string
-2nd string
-3d string
+int main(){
+	int a;
+	a++;
+	printf("huy vsedm %d",d);
+}
