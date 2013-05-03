@@ -2,4 +2,5 @@ int main(){
 	int a;
 	a++;
 	printf("huy vsedm %d",d);
+	return -1;
 }
